@@ -4,9 +4,9 @@
 
 # Site
 title: Cheri 的博客
-subtitle: 学习笔记 · 生活碎碎念 · 踩坑记录 · AI 小玩意
-description: Cheri 的个人博客，记录学习笔记、生活碎碎念、遇到的问题与解决办法，以及一些用 AI 做的小作品。
-keywords: 博客, 学习笔记, 生活, AI, Hexo, Butterfly
+subtitle: 技术·分享
+description: Cheri 的个人博客，记录各种生活学习相关内容，当然，开源共享精神永存！
+keywords: 博客, 学习笔记, 生活, AI
 author: Cheri
 language: zh-CN
 timezone: Asia/Shanghai
@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # URL
 ## 部署到 Cloudflare Pages 后，把下面这行换成你的真实地址，例如 https://xxx.pages.dev
 ## 绑定自定义域名后再改成你的域名
-url: https://cheri.pages.dev
+url: https://cherii.pages.dev
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

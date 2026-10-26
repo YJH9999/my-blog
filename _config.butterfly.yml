@@ -173,10 +173,10 @@ subtitle:
   source: false
   # If you close the typewriter effect, the subtitle will only show the first line of sub
   sub:
-    - 千里之行，始于第一篇博客。
-    - 记录学习笔记、生活碎碎念与踩坑日常。
-    - 也捣鼓一些用 AI 做的小作品。
-    - 谢谢你的到来，陌生人。
+    - 只要生命还没有让我疲惫，
+    - 我任它经过我，
+    - 而我依然故我。
+    - Hello, world!
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right

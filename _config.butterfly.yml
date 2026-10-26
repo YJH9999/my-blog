@@ -451,9 +451,13 @@ wordcount:
 
 # Busuanzi count for PV / UV in site
 busuanzi:
-  site_uv: false
-  site_pv: false
-  page_pv: false
+  site_uv: true
+  site_pv: true
+  page_pv: true
+
+asset:
+  busuanzi: https://busuanzi.icodeq.com/busuanzi/2.3/busuanzi.pure.mini.js
+
 
 
 

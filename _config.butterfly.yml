@@ -66,7 +66,7 @@ favicon: /img/butterfly-icon.png
 
 avatar:
   img: /img/Image_250900115833589.jpg
-  effect: true
+  effect: false
 
 # Disable all banner images
 disable_top_img: false
@@ -180,7 +180,7 @@ subtitle:
     - 只要生命还没有让我疲惫，
     - 我任它经过我，
     - 而我依然故我。
-    - 顺带一提，今天的天空也很好看。
+    - Hello, world!
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
@@ -280,7 +280,6 @@ footer:
   copyright:
     enable: true
     version: true
-  custom_text: 欢迎来聊：QQ 198438189 · 天空常看常新
 
 # --------------------------------------
 # Aside Settings
@@ -300,7 +299,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: 一个爱拍天空的学生 | 记录学习、生活与捣鼓
+    description: 一个学计算机的学生 | 记录学习、生活与捣鼓
     button:
       enable: true
       icon: fab fa-github
@@ -537,12 +536,12 @@ share:
   # Share.js
   # https://github.com/overtrue/share.js
   sharejs:
-    sites: facebook,x,wechat,weibo,qq
+    sites: wechat,weibo,qq
 
   # AddToAny
   # https://www.addtoany.com/
   addtoany:
-    item: facebook,x,wechat,sina_weibo,facebook_messenger,email,copy_link
+    item: wechat,sina_weibo,email,copy_link
 
 # --------------------------------------
 # Comments System
